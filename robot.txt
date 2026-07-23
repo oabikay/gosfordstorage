@@ -1,0 +1,15 @@
+# Allow all search engines to crawl the website
+
+User-agent: *
+Allow: /
+
+# Allow access to CSS, JavaScript, and images
+Allow: /wp-content/uploads/
+Allow: /wp-content/themes/
+Allow: /wp-content/plugins/
+
+# Block only sensitive system files (optional)
+Disallow: /cgi-bin/
+
+# Sitemap location
+Sitemap: gosfordstorageandlogisticsltd.co.uk/sitemap.xml
