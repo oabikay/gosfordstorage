@@ -1,0 +1,29 @@
+.so-widget-sow-image-default-3a8f87679ae4 .sow-image-container {
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+}
+.so-widget-sow-image-default-3a8f87679ae4 .sow-image-container > a {
+  display: inline-block;
+  
+  
+}
+@media screen and (-ms-high-contrast: active), screen and (-ms-high-contrast: none) {
+  .so-widget-sow-image-default-3a8f87679ae4 .sow-image-container > a {
+    display: flex;
+  }
+}
+.so-widget-sow-image-default-3a8f87679ae4 .sow-image-container .so-widget-image {
+  display: block;
+  
+  
+  
+  -webkit-mask-image: url("../../plugins/so-widgets-bundle/base/inc/shapes/images/square.svg");
+  -webkit-mask-position: center;
+  -webkit-mask-repeat: no-repeat;
+  -webkit-mask-size: 185px;
+  mask-image: url("../../plugins/so-widgets-bundle/base/inc/shapes/images/square.svg");
+  mask-position: center;
+  mask-repeat: no-repeat;
+  mask-size: 185px;
+}
